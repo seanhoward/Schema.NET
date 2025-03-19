@@ -49,7 +49,7 @@ stages:
               packageType: "sdk"
               version: 3.1.x
           - task: UseDotNet@2
-            displayName: "Install .NET Core 6.0 SDK"
+            displayName: "Install .NET Core 7.0 SDK"
             inputs:
               packageType: "sdk"
               version: 6.0.x
